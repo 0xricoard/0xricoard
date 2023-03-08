@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning PHP, FLutter, CodeIgniter, Node Blockchain
 - 👯 I’m looking to collaborate on Blockchain Nodes Validator
 - 🤔 I’m looking for help with Senior Developer
-- 💬 Ask me about anything is ok!
+- 💬 Ask me about 
 - 📫 How to reach me: https://muhammadri.co
 
