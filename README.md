@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- I am student at STMIK Widya Pratama Pekalongan
+- I am student at IWIMA
 - 📫 How to reach me: https://muhammadri.co
 
